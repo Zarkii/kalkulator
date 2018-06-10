@@ -22,7 +22,7 @@ public class Main extends Application {
     }
 
 public void blabla(){
-    System.out.println("bla bla");
+    System.out.println("bla bla bla");
 }
     public static void main(String[] args) {
         launch(args);
